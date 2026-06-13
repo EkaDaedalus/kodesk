@@ -32,7 +32,7 @@ KODESK transforms this into an **intrinsically motivating experience** where eve
 | Setup-to-first-code time | 25–45 min | **< 8 seconds** | **300× faster** |
 | Platform uptime | N/A (local) | **99.97%** | Enterprise-grade |
 
-*Baseline: University CS101 lab data (2024). KODESK measurements from 2,400+ student sessions across 3 institutions.*
+*Baseline: University CSE400 lab data (2024). KODESK measurements from 2,400+ student sessions across 3 institutions.*
 
 ---
 
@@ -52,8 +52,8 @@ KODESK is not a "coding tutorial with points." It is a **full-stack gamified lea
        └─────────────┴─────────────┴────────────────┘
                          │
                     ┌────┴────┐
-                    │  XP Core │
-                    │ (Gamify) │
+                    │ XP Core │
+                    │(Gamify) │
                     └─────────┘
 ```
 
@@ -228,8 +228,8 @@ KODESK is designed for **deployment, contribution, and extension**:
 
 ```bash
 # Clone the repository
-git clone https://github.com/EkaDaedalus/KODESK.git
-cd KODESK
+git clone https://github.com/EkaDaedalus/kodesk.git
+cd kodesk
 
 # Install dependencies
 npm install
